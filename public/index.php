@@ -1,4 +1,11 @@
-<?php 
+<?php
+
+use core\App;
+
 require_once  dirname(__DIR__) . '/config/init.php';
 
-echo '<h1> HELLO! </h1>';
+new App();
+
+// var_dump(App::$app->getProperty('pagination'));
+// var_dump(App::$app->setProperty('test', 'TEST'));
+// var_dump(App::$app->getProperties());
