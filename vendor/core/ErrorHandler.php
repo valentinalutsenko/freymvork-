@@ -37,7 +37,7 @@
             // выключаем буфер
             ob_end_clean();
 
-            // зпоказываем
+            // показываем
             $this->dispalyError($error['type'], $error['message'], $error['file'], $error['line']);
         }
         else

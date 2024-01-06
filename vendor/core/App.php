@@ -7,9 +7,14 @@ class App
     public static $app;
 
     public function __construct() 
-    {   new ErrorHandler();        
+    {   
+        $query = trim(urldecode($_SERVER['QUERY_STRING']), '/'); //получаем текущий адрес
+
+        
+        new ErrorHandler();        
         self::$app = Registry::getInstance(); //получаем экземпляр класса
         $this->getParams();
+        Router::dispatch($query);
 
     }
 
