@@ -7,9 +7,10 @@ class App
     public static $app;
 
     public function __construct() 
-    {               
+    {   new ErrorHandler();        
         self::$app = Registry::getInstance(); //получаем экземпляр класса
         $this->getParams();
+
     }
 
 
