@@ -2,3 +2,21 @@
 ==============
 [2024-01-06 14:45:08] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\public\index.php | Строка: 14
 ==============
+[2024-01-06 19:44:32] Текст ошибки: preg_match(): Compilation failed: missing closing parenthesis at offset 51 | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 46
+==============
+[2024-01-06 19:44:40] Текст ошибки: preg_match(): Compilation failed: missing closing parenthesis at offset 51 | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 46
+==============
+[2024-01-06 19:44:52] Текст ошибки: preg_match(): Compilation failed: missing closing parenthesis at offset 51 | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 46
+==============
+[2024-01-06 19:44:57] Текст ошибки: preg_match(): Compilation failed: missing closing parenthesis at offset 51 | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 46
+==============
+[2024-01-06 19:44:59] Текст ошибки: preg_match(): Compilation failed: missing closing parenthesis at offset 51 | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 46
+==============
+[2024-01-06 19:57:17] Текст ошибки: Non-static method core\Router::upperCamelCase() cannot be called statically | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 61
+==============
+[2024-01-06 19:57:18] Текст ошибки: Non-static method core\Router::upperCamelCase() cannot be called statically | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 61
+==============
+[2024-01-06 19:57:18] Текст ошибки: Non-static method core\Router::upperCamelCase() cannot be called statically | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 61
+==============
+[2024-01-06 19:57:18] Текст ошибки: Non-static method core\Router::upperCamelCase() cannot be called statically | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 61
+==============
