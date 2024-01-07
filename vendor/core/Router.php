@@ -46,7 +46,12 @@ class Router
     {
         $url = self::removeQueryString($url);
         if(self::matchRoute($url)) {
+
             $controller = "app\controllers\\" . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller'; 
+
+            /** @var Controller $controllerObject */
+            $controllerObject = new $controller(self::$route);
+            $controllerObject->getModel();
 
             if(class_exists($controller)) {
                 $controllerObject = new $controller(self::$route);

@@ -172,3 +172,59 @@
 ==============
 [2024-01-07 11:19:57] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 47
 ==============
+[2024-01-07 19:53:22] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:23] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:23] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:23] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:31] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:34] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:38] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:53:38] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:54:37] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:54:38] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:54:38] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:54:38] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:27] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:27] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:39] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:40] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:40] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:55:40] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:57:00] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:57:01] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:57:01] Текст ошибки: Undefined variable $controllerObject | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 55
+==============
+[2024-01-07 19:59:11] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 19:59:12] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 20:01:45] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 20:01:45] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 20:04:38] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 20:04:39] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
+[2024-01-07 20:04:39] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
+==============
