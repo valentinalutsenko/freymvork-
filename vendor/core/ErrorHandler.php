@@ -19,6 +19,7 @@
         register_shutdown_function([$this, 'fatalErrorHandler']);
     }
 
+    //логируем и показавыем ошибку
     public function errorHandler($errno, $errstr, $errfile, $errline) 
     {
         $this->logError($errstr, $errfile, $errline);
@@ -34,7 +35,7 @@
             //логируем ошибку
             $this->logError($error['message'], $error['file'], $error['line']);
 
-            // выключаем буфер
+            // стираем буфер вывода
             ob_end_clean();
 
             // показываем
