@@ -13,7 +13,7 @@ abstract class Controller
 
     public function __construct(public $route= [])
     {
-
+        
     }
 
 
@@ -27,11 +27,11 @@ abstract class Controller
 
     }
 
-
+    //метод определяет  нужный вид и подключает шаблон
     public function getView() 
     {
         $this->view = $this->view ?: $this->route['action'];
-
+        (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
 
     }
 
@@ -53,4 +53,4 @@ abstract class Controller
 
     }
 
-}
+} 

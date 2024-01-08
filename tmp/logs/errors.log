@@ -228,3 +228,105 @@
 ==============
 [2024-01-07 20:04:39] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 11
 ==============
+[2024-01-08 12:31:51] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:31:53] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:34:46] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:34:46] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:34:47] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:36:41] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 12:36:42] Текст ошибки: Class "app\controllers\admin\MainController" not found | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Router.php | Строка: 53
+==============
+[2024-01-08 13:00:48] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:00:49] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:00:49] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:01:28] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:01:28] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:01:29] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:01:29] Текст ошибки: Undefined variable $view | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 34
+==============
+[2024-01-08 13:09:43] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:09:44] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:57] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:58] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:58] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:58] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:58] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:11:58] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:13] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:13] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:13] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:13] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:13] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:47] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:47] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:12:47] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:09] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:09] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:09] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:12] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:30] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:30] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:13:30] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:14:34] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/test.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:14:34] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/test.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:14:34] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/test.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:14:35] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/test.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:07] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/test.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:23] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:23] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:24] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:24] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:15:24] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:16:53] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:16:54] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:16:54] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
+[2024-01-08 13:16:54] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
+==============
