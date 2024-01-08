@@ -330,3 +330,27 @@
 ==============
 [2024-01-08 13:16:54] Текст ошибки: Не найден шаблон D:\OSPanel\domains\freymvork-/app/views/layouts/freymvork-.php | Файл: D:\OSPanel\domains\freymvork-\vendor\core\View.php | Строка: 46
 ==============
+[2024-01-08 14:41:47] Текст ошибки: Undefined property: core\View::$test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:41:55] Текст ошибки: Undefined property: core\View::$test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:41:55] Текст ошибки: Undefined property: core\View::$test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:41:55] Текст ошибки: Undefined property: core\View::$test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:09] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:10] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:10] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:46] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:46] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:46] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:47] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============
+[2024-01-08 14:47:51] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
+==============

@@ -35,14 +35,15 @@ abstract class Controller
 
     }
 
-
+   
     public function set($data) 
     {
         $this->data = $data;
+        
 
     }
 
-
+     //устанавливает мета данные
     public function setMeta($title = '', $description = '', $keywords = '') 
     {
         $this->meta = [
