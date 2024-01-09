@@ -354,3 +354,115 @@
 ==============
 [2024-01-08 14:47:51] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\freymvork-\app\views\Main\index.php | Строка: 3
 ==============
+[2024-01-08 16:41:28] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:41:29] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:41:29] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:42:23] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:42:23] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:42:24] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\freymvork-\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+==============
+[2024-01-08 16:43:41] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:43:42] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:43:42] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:43:42] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:46:03] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:46:03] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:46:03] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:46:04] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:46:04] Текст ошибки: require_once(D:\OSPanel\domains\freymvork-/configconfig_db.php): Failed to open stream: No such file or directory | Файл: D:\OSPanel\domains\freymvork-\vendor\core\Db.php | Строка: 13
+==============
+[2024-01-08 16:50:53] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 16:50:53] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 16:50:54] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 16:50:54] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 16:51:30] Текст ошибки: compact(): Undefined variable $names | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 23
+==============
+[2024-01-08 16:51:41] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 16:52:39] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 16:54:06] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 17
+==============
+[2024-01-08 16:54:07] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 17
+==============
+[2024-01-08 16:54:07] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 17
+==============
+[2024-01-08 16:54:07] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 17
+==============
+[2024-01-08 16:55:15] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 16:55:16] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 16:55:16] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 16:55:16] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 16:55:16] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:00:11] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:00:11] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:00:12] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:01:31] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:01:31] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:01:31] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:01:31] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 15
+==============
+[2024-01-08 17:02:33] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:02:33] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:02:34] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:02:34] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:05:40] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:05:40] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:05:40] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 19
+==============
+[2024-01-08 17:18:18] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:18:18] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:18:18] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:20] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:21] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:21] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:21] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:21] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:21] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:22] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
+[2024-01-08 17:20:22] Текст ошибки: Typed property core\Controller::$model must not be accessed before initialization | Файл: D:\OSPanel\domains\freymvork-\app\controllers\MainController.php | Строка: 20
+==============
