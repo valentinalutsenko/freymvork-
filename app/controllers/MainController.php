@@ -19,6 +19,7 @@ class MainController extends Controller
         // $names = ['Jhon', 'Alex', 'Ann'];
         // $names = $this->model->get_names();
         $names = R::findAll('name');
+        R::getRow('SELECT * FROM name WHERE id = 2');
 
 
         // debug($names);

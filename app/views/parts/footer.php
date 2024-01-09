@@ -1,0 +1,4 @@
+<?= $this->getDblogs(); ?>
+
+</body>
+</html>
